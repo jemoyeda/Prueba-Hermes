@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+
+<odoo>
+
+	<record id="libreria_action" model="ir.actions.act_window">
+		<field name="name">libros</field>
+		<field name="res_model">libros</field>
+		<field name="view_mode">tree,form</field>
+	</record>
+
+	<menuitem name="Libreria" id="libreria_menu"/>
+	<menuitem name="Libros" id="libros_menu" parent="libreria_menu" action="libreria_action"/>
+	
+
+</odoo>
