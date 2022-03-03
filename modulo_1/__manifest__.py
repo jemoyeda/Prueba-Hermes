@@ -8,7 +8,7 @@
     'author': 'Ing. Hermes Colina',
     'Category': 'General',
     'Version': '1.0.0.0',
-    'website': "https://www.contablesag.com"
+    'website': "https://www.contablesag.com/"
     'depends':[],
     'data':[
 
