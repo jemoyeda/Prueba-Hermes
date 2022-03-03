@@ -2,12 +2,13 @@
 
 {
 
-    'name': "primer modulo",
-    'description': "Modulo de prueba",
-    'summary': "Modulo de prueba para instalar en una base de datos de Odoo sh",
+    'name': "Libreria Odoo",
+    'description': "Este modulo se usa para registgrar en una base de datos los libros, por tanto es un modulo personalizado. Autor: Ing. Hermes Colina",
+    'summary': "Este modulo se puede instalar en Enterprise y SH",
     'author': 'Ing. Hermes Colina',
     'Category': 'General',
     'Version': '1.0.0.0',
+    'website': "https://www.contablesag.com"
     'depends':[],
     'data':[
 
