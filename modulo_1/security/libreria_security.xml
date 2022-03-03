@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0"?>
 
 <odoo>
 
@@ -6,7 +6,7 @@
 		<field name="name">libreria</field>
 	</record>
 
-	<record id="libreria.group.user" model="res.groups">
+	<record id="libreria_group_user" model="res.groups">
 		<field name="name">Usuarios</field>
 		<field name="category_id" ref="categoria_modulo_libreria"/>
 		<field name="implied_ids" eval="[(4, ref('base.group.user'))]"/>
