@@ -4,7 +4,6 @@
 
 	<record id="libros_action" model="ir.actions.act_window">
 		<field name="name">libros</field>
-		<field name="Price">libros</field>
 		<field name="res_model">libros</field>
 		<field name="view_mode">tree,form</field>
 	</record>
