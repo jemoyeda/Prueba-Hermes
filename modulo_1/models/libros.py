@@ -5,7 +5,5 @@ class Libros(models.Model):
     _name = 'libros'
 
     name = fields.Char(string="Nombre del libro")
-    name = fields.Char(string="Categoria")
-    name = fields.Float(string="precio de venta")
     
     
