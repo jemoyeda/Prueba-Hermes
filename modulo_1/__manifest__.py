@@ -8,7 +8,7 @@
     'author': 'Ing. Hermes Colina',
     'Category': 'General',
     'Version': '1.0.0.0',
-    'depends':['base'],
+    'depends':[],
     'data':[
 
             'views/menu_view.xml',
