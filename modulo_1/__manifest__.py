@@ -8,12 +8,12 @@
     'author': 'Ing. Hermes Colina',
     'Category': 'General',
     'Version': '1.0.0.0',
-    'depends':[],
+    'depends':['base'],
     'data':[
 
-            'views/menu_view.xml'
-            'security/libreria_security.xml'
-            'security/ir.model.access.csv'
+            'views/menu_view.xml',
+            'security/libreria_security.xml',
+            'security/ir.model.access.csv',
         ],
     
 
