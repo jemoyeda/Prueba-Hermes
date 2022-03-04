@@ -1,1 +1,1 @@
-from . import tallas
+from . import talla
