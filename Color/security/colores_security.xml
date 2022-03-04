@@ -3,8 +3,7 @@
 <odoo>
 
 	<record id="categoria_modulo_colores" model="ir.module.category">
-		<field name="color">color</field>
-		<field name="talla">talla</field>
+		<field name="name">color</field>
 	</record>
 
 	<record id="colores_group_user" model="res.groups">

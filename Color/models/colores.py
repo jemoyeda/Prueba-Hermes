@@ -4,8 +4,7 @@ from odoo import models, fields
 class colores(models.Model):
     _name = 'colores'
 
-    color = fields.Char(string="Color")
-    talla = fields.Char(string="Talla")
+    name = fields.Char(string="Color")
     
     
     
