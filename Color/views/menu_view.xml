@@ -4,7 +4,7 @@
 
 	<record id="colores_action" model="ir.actions.act_window">
 		<field name="name">colores</field>
-		<field name="res_model">libros</field>
+		<field name="res_model">colores</field>
 		<field name="view_mode">tree,form</field>
 	</record>
 
