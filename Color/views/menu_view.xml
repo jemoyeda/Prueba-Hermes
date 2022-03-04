@@ -9,7 +9,7 @@
 	</record>
 
 	<menuitem name="colores" id="colores_menu"/>
-	<menuitem name="color" id="color_menu" parent="colores_menu" action="color_action" web_icon="Color\static\src\img\icon.png"/>
+	<menuitem name="color" id="color_menu" parent="colores_menu" action="color_action"/>
 	
 
 </odoo>
